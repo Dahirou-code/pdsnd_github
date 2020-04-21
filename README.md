@@ -12,6 +12,7 @@ Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+<<<<<<< HEAD
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 ### Credits
@@ -19,4 +20,11 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+||||||| 6947bd7
+=======
+### Motivation
+ Life is a struggle my brother!
+ ### life advice
+ Work hard man
+>>>>>>> Documentation
 
