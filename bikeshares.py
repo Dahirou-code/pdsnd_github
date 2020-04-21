@@ -43,7 +43,7 @@ def get_filters():
                 city = city.lower()
                 break
             else:
-                print('Please choose between these cities : Chicago, New York City, Washington \n')
+                print('Please choose among these cities : Chicago, New York City, Washington \n')
         except ValueError:
             print('wrong value \n')
     while True:
@@ -78,7 +78,7 @@ def get_filters():
                         day = 'all'
                         break
                     else:
-                        print('Please choose month between January, February, March, April, May, June \n')
+                        print('Please choose month in this list January, February, March, April, May, June \n')
                 break
         except:
             print('error')
@@ -245,7 +245,7 @@ def display_data(df):
             start_loc += 5
             end_loc += 5
 
-            end_display = input("Do you wish to continue?: ").lower()
+            end_display = input("Do you want to continue analyzing data?: ").lower()
             if end_display == 'no':
                 break
 

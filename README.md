@@ -16,4 +16,8 @@ It's important to give proper credit. Add links to any repo that inspired you or
  Life is a struggle my brother!
  ### life advice
  Work hard man
+ ### Motivation 
+ Soit fort Nawa
+ ### Head
+ <head>Udacity</head> 
 
